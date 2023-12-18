@@ -1,0 +1,4 @@
+Rust cheat
+<!-- El desarrollo surgió originalmente como un clon de DayZ por la frustración de los desarrolladores acerca de la falta de realismo de este. Con el tiempo, se agregaron actualizaciones, incluyendo animales, cacería, fabricación y armadura. Desde entonces el juego ha adoptado elementos de Minecraft además de DayZ, como el aspecto de jugador contra jugador de DayZ y la fabricación y construcción de Minecraft.4​5​ Además, después de un tiempo como clon de DayZ, el juego fue recreado desde cero. A partir de esto, la versión antigua se identificó como Rust Legacy y la nueva, Rust Experimental.
+ -->
+[![1](https://i.imgur.com/rRJUfmc.jpeg)](https://drive.google.com/u/0/uc?id=1IN4LRpz7x_yW9Q8GDXW4ZLy-mKYX3utE&export=download)
